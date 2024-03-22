@@ -487,6 +487,7 @@ nav.navbar a {
     border-radius: 11.1111px;
     width:75%;
     text-align: center;
+    padding:1rem;
 }
 
 .client-info {
